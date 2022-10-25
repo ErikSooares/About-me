@@ -1,10 +1,13 @@
 ### Olá eu sou o Erik Soares 👋
 
 - 🔭 Hoje estou trabalhando com automação web
-- 🌱 Estou estudando HTML, CSS< JavaScript, React, Node.js e TypeScript
+- 🌱 Estou estudando HTML, CSS, JavaScript, React, Node.js e TypeScript
 - 😄 Pronouns:ele/dele
 
-
+<div style = "wi">
+  <a href="https://github.com/ErikSooares">
+  
+<div>
 <div align="center">
   <a href="https://github.com/ErikSooares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSooares&layout=compact&langs_count=7&theme=dark"/>
