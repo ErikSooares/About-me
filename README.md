@@ -3,15 +3,6 @@
 - 🔭 Hoje estou trabalhando com automação web
 - 🌱 Estou estudando HTML, CSS, JavaScript, React, Node.js e TypeScript
 - 😄 Pronouns:ele/dele
-
-<div style = "wi">
-  <a href="https://github.com/ErikSooares">
-  
-<div>
-<div align="center">
-  <a href="https://github.com/ErikSooares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSooares&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
