@@ -1,9 +1,14 @@
 ### Olá eu sou o Erik Soares 👋
 
 - 🔭 Hoje estou trabalhando com automação web
-- 🌱 Estou estudando HTML, CSS, JavaScript, React, Node.js e TypeScript
+-  Estou estudando HTML, CSS, JavaScript, React, Node.js e TypeScript
 - 😄 Pronouns:ele/dele
-  
+ 
+ ##
+ 
+ ### Linguagens que mais gosto de estudar 🌱
+ 
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,6 +21,7 @@
 
 ##
 
+### Formas de contato 👋
 
 <div> 
   <a href="https://instagram.com/eerik_soares" target="_blank">
