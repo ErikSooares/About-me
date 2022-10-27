@@ -4,6 +4,11 @@
 - 🌱 Estou estudando HTML, CSS, JavaScript, React, Node.js e TypeScript
 - 😄 Pronouns:ele/dele
   
+##
+
+### Linguagens que estou me aprofundando 🌱
+
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,8 +18,9 @@
   <img align="center" alt="Erik-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-
 ##
+
+### Formas de contato 👋
 
 
 <div> 
