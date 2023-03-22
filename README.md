@@ -6,7 +6,7 @@
  
  ##
  
- ### Linguagens que mais gosto de estudar 🌱
+ ### Tecnologias que mais gosto de estudar 🌱
  
  
   <div style="display: inline_block"><br>
