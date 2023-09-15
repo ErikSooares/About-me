@@ -1,7 +1,7 @@
 ### Olá eu sou o Erik Soares 👋
 
 - 🔭 Hoje estou estudando e trabalhando com desenvolvimento Web e Mobile
-- 📖 Estudo as principais technologias de cada área, HTML, CSS, JavaScript, TyoeScript, Angular, React Js, React Native...
+- 📖 Estudo as principais tecnologias de cada área, HTML, CSS, JavaScript, TyoeScript, Angular, React Js, React Native...
 - 😄 Pronouns:ele/dele
  
  ##
