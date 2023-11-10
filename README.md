@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou estudando e trabalhando com desenvolvimento Web e Mobile
 - 📖 Estudo as principais tecnologias de cada área, HTML, CSS, JavaScript, TyoeScript, Angular, React Js, React Native...
-- 😄 Pronouns:ele/dele
+- 😄 Estou sempre a procura de novos desafios
  
  ##
  
